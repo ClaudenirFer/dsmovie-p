@@ -1,9 +1,10 @@
+import { ReactComponent as GithubIcon } from "./assets/github.svg";
+import Navbar from "./components/Navbar/Navbar";
+
 function App() {
   return (
-
-    <h1> Página </h1>
-
-);
+    <Navbar />
+  );
 }
 
 export default App;
