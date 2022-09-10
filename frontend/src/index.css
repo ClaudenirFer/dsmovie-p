@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+root {
+    --background-body: #252525;
+    --background-topbar: #000;
+    --color-primary-top: #fff;
+    --background-card: #fff;
+    --text-card: #252525;
+    --text-label: #aaa;
+    --text-star: #ffbb3a;
+}
+
+* {
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+html, body {
+    background-color: var(--background-body);
+}
+
+a, a:hover {
+    text-decoration: none;
+    color: unset;
+}
