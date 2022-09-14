@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "hibernate.globally_quoted_identifiers_skip_column_definitions",
+  "type": "java.lang.String",
+  "description": "A description for 'hibernate.globally_quoted_identifiers_skip_column_definitions'"
+}]}
