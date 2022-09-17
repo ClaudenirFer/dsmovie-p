@@ -1,10 +1,12 @@
 import MovieCard from "components/MovieCard/MovieCard";
-import Pagination from "components/Pagination/Pagination";
+import Pagination from "components/pagination/Pagination";
+
 import "./listing.css";
 
 function Listing() {
   return (
     <>
+      
       <Pagination />
 
       <div className="container">
